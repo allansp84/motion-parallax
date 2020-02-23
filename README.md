@@ -5,8 +5,7 @@
 
 Allan Pinto<sup>1</sup>, Manuel A. Córdova<sup>1</sup>, Luis G. L. Decker<sup>1</sup>, Jose L. Flores-Campana<sup>1</sup>, Marcos R. Souza<sup>1</sup>, Andreza A. dos Santos<sup>1</sup>, Jhonatas S. Conceição<sup>1</sup>, Henrique F. Gagliardi<sup>2</sup>, Diogo C. Luvizon<sup>2</sup>, Ricardo da S. Torres<sup>3</sup>, and  Helio Pedrini<sup>1</sup>
 
-<sup>1</sup> Institute of Computing, University of Campinas (UNICAMP), Campinas, SP, Brazil, 13083-852
-
+<sup>1</sup> Institute of Computing, University of Campinas (UNICAMP), Campinas, SP, Brazil, 13083-852<br/>
 <sup>2</sup> AI R&D Lab, Samsung R&D Institute Brazil, Campinas, SP, 13097-160, Brazil
 <sup>3</sup> NTNU – Norwegian University of Science and Technology, Ålesund, Norway
 ---
