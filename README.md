@@ -27,3 +27,9 @@ the development of modern solutions, such as virtual and augmented reality appli
 
 - **Video #3** <br/>
 [![](https://img.youtube.com/vi/c3NfMW6uVqI/0.jpg)](https://www.youtube.com/watch?v=c3NfMW6uVqI)
+
+- **Video #4** <br/>
+[![](https://img.youtube.com/vi/UA3R6Zw1220/0.jpg)](https://www.youtube.com/watch?v=UA3R6Zw1220)
+
+- **Video #4** <br/>
+[![](https://img.youtube.com/vi/K6jrLoEW7mE/0.jpg)](https://www.youtube.com/watch?v=K6jrLoEW7mE)
