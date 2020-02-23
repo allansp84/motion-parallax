@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Parallax Motion Effect Generation Through Instance Segmentation And Depth Estimation
 
 You can use the [editor on GitHub](https://github.com/allansp84/motion-parallax/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
