@@ -19,6 +19,13 @@ the development of modern solutions, such as virtual and augmented reality appli
 
 ### Visual Quality Assessment
 
+
+<video width="320" height="200" controls preload> 
+    <source src="https://github.com/allansp84/motion-parallax/blob/master/parallax-videos/1/motion-parallax-develop-01-pydnet-test-detectron-INPAINT_TELEA-Set03-2a99d71c-zoom_in-2a99d71c_zoom_in.mp4"></source> 
+</video>
+
+
+
 ![Parallax Motion Effect (video 1)](https://github.com/allansp84/motion-parallax/blob/master/parallax-videos/1/motion-parallax-develop-01-pydnet-test-detectron-INPAINT_TELEA-Set03-2a99d71c-zoom_in-2a99d71c_zoom_in.mp4)
 
 
