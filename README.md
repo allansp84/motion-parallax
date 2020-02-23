@@ -22,8 +22,8 @@ the development of modern solutions, such as virtual and augmented reality appli
 - **Video #1** <br/>
 [![](https://img.youtube.com/vi/MfmXOHqTHDI/0.jpg)](https://www.youtube.com/watch?v=MfmXOHqTHDI)
 
+- **Video #2** <br/>
+[![](https://img.youtube.com/vi/lWIOzm2B1cE/0.jpg)](https://www.youtube.com/watch?v=lWIOzm2B1cE)
 
-- [Parallax Motion Effect (video 2)](https://github.com/allansp84/motion-parallax).
-- [Parallax Motion Effect (video 3)](https://github.com/allansp84/motion-parallax).
-- [Parallax Motion Effect (video 4)](https://github.com/allansp84/motion-parallax).
-
+- **Video #3** <br/>
+[![](https://img.youtube.com/vi/c3NfMW6uVqI/0.jpg)](https://www.youtube.com/watch?v=c3NfMW6uVqI)
