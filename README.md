@@ -20,7 +20,7 @@ the development of modern solutions, such as virtual and augmented reality appli
 ### Visual Quality Assessment
 
 
-[![Video #1](https://youtu.be/MfmXOHqTHDI/0.jpg)](https://youtu.be/MfmXOHqTHDI
+[![Video #1](https://youtu.be/MfmXOHqTHDI)](https://youtu.be/MfmXOHqTHDI
 )
 
 
