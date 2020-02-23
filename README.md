@@ -1,43 +1,23 @@
-## Parallax Motion Effect Generation Through Instance Segmentation And Depth Estimation (Supplemental Material)
+### International Conference on Image Processing (ICIP) 2020 <br/> Supplemental Material
 
->     Allan Pinto 1, Manuel A. Córdova 1, Luis G. L. Decker 1, Jose L. Flores-Campana 1, Marcos R. Souza 1, Andreza A. dos Santos 1, Jhonatas S. Conceição 1, Henrique F. Gagliardi 2, Diogo C. Luvizon 2, Ricardo da S. Torres 3, and  Helio Pedrini 1
->     1 Institute of Computing, University of Campinas (UNICAMP), Campinas, SP, Brazil, 13083-852
->     2 AI R&D Lab, Samsung R&D Institute Brazil, Campinas, SP, 13097-160, Brazil
->     3 NTNU – Norwegian University of Science and Technology, Ålesund, Norway.
+---
+**Parallax Motion Effect Generation Through Instance Segmentation And Depth Estimation**
 
+Allan Pinto<sup>1</sup>, Manuel A. Córdova<sup>1</sup>, Luis G. L. Decker<sup>1</sup>, Jose L. Flores-Campana<sup>1</sup>, Marcos R. Souza<sup>1</sup>, Andreza A. dos Santos<sup>1</sup>, Jhonatas S. Conceição<sup>1</sup>, Henrique F. Gagliardi<sup>2</sup>, Diogo C. Luvizon<sup>2</sup>, Ricardo da S. Torres<sup>3</sup>, and  Helio Pedrini<sup>1</sup>
 
-You can use the [editor on GitHub](https://github.com/allansp84/motion-parallax/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<sup>1</sup> Institute of Computing, University of Campinas (UNICAMP), Campinas, SP, Brazil, 13083-852 <br/>
+<sup>2</sup> AI R&D Lab, Samsung R&D Institute Brazil, Campinas, SP, 13097-160, Brazil <br/>
+<sup>3</sup> NTNU – Norwegian University of Science and Technology, Ålesund, Norway <br/>
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Abstract
+> Stereo vision is a growing topic in computer vision due to the innumerable opportunities and applications this technology offers for
+the development of modern solutions, such as virtual and augmented reality applications. To increase the user’s three-dimensional experience, motion parallax estimation is a promising technique to achieve this objective. In this paper, we propose an algorithm for generating parallax motion effects from a single image, taking advantage of state-of-the-art instance segmentation and depth estimation approaches. This work also presents a comparison against such algorithms to investigate the trade-off between efficiency and quality of the parallax motion effects, taking into consideration a multi-task learning network capable of estimating instance segmentation and depth estimation at once. Experimental results and visual quality assessment indicate that the PyD-Net network (depth estimation) combined with Mask-RCNN or FBNet networks (instance segmentation) are able to produce parallax motion effects with good visual quality.
 
-### Markdown
+### Visual Quality Assessment
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Parallax Motion Effect (video 1)](https://github.com/allansp84/motion-parallax).
+- [Parallax Motion Effect (video 2)](https://github.com/allansp84/motion-parallax).
+- [Parallax Motion Effect (video 3)](https://github.com/allansp84/motion-parallax).
+- [Parallax Motion Effect (video 4)](https://github.com/allansp84/motion-parallax).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allansp84/motion-parallax/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
