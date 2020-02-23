@@ -19,9 +19,8 @@ the development of modern solutions, such as virtual and augmented reality appli
 
 ### Visual Quality Assessment
 
-
-[![Video #1](https://youtu.be/MfmXOHqTHDI)](https://youtu.be/MfmXOHqTHDI
-)
+- **Video #1** <br/>
+[![](https://img.youtube.com/vi/MfmXOHqTHDI/0.jpg)](https://www.youtube.com/watch?v=MfmXOHqTHDI)
 
 
 - [Parallax Motion Effect (video 2)](https://github.com/allansp84/motion-parallax).
