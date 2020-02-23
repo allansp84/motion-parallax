@@ -1,4 +1,10 @@
-## Parallax Motion Effect Generation Through Instance Segmentation And Depth Estimation
+## Parallax Motion Effect Generation Through Instance Segmentation And Depth Estimation (Supplemental Material)
+
+>     Allan Pinto 1, Manuel A. Córdova 1, Luis G. L. Decker 1, Jose L. Flores-Campana 1, Marcos R. Souza 1, Andreza A. dos Santos 1, Jhonatas S. Conceição 1, Henrique F. Gagliardi 2, Diogo C. Luvizon 2, Ricardo da S. Torres 3, and  Helio Pedrini 1
+>     1 Institute of Computing, University of Campinas (UNICAMP), Campinas, SP, Brazil, 13083-852
+>     2 AI R&D Lab, Samsung R&D Institute Brazil, Campinas, SP, 13097-160, Brazil
+>     3 NTNU – Norwegian University of Science and Technology, Ålesund, Norway.
+
 
 You can use the [editor on GitHub](https://github.com/allansp84/motion-parallax/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
